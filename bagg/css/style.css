@@ -382,7 +382,7 @@ a {
     align-items: center;
     color: white;
     text-align: center;
-    background-image: url('/img/banner-img.png');
+    background-image: url('/bagg/img/banner-img.png');
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -462,19 +462,19 @@ a {
 }
 
 #menu .bg-image.cheddar {
-    background-image: url(/img/cheese/cheddar.jpg);
+    background-image: url('/bagg/img/cheese/cheddar.jpg');
 }
 
 #menu .bg-image.mozzarella {
-    background-image: url(/img/cheese/Mozzarella.jpg);
+    background-image: url('/bagg/img/cheese/Mozzarella.jpg');
 }
 
 #menu .bg-image.rl {
-    background-image: url(/img/cheese/RL.jpg);
+    background-image: url('/bagg/img/cheese/RL.jpg');
 }
 
 #menu .bg-image.fire {
-    background-image: url(/img/cheese/fire.jpg);
+    background-image: url('/bagg/img/cheese/fire.jpg');
 }
 
 #menu h3 {
