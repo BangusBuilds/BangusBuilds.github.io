@@ -1,15 +1,15 @@
 @font-face {
     font-family: 'didonesqueroman';
-    src: url('../css/fonts/didonesque-roman-webfont.woff2') format('woff2'),
-        url('../css/fonts/didonesque-roman-webfont.woff') format('woff');
+    src: url('./fonts/didonesque-roman-webfont.woff2') format('woff2'),
+        url('./fonts/didonesque-roman-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'millerregular';
-    src: url('../css/fonts/miller-displayroman-webfont.woff2') format('woff2'),
-        url('../css/fonts/miller-displayroman-webfont.woff') format('woff');
+    src: url('./fonts/miller-displayroman-webfont.woff2') format('woff2'),
+        url('./fonts/miller-displayroman-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -17,8 +17,8 @@
 
 @font-face {
     font-family: 'arimoregular';
-    src: url('../css/fonts/arimo-variablefont_wght-webfont.woff2') format('woff2'),
-        url('../css/fonts/arimo-variablefont_wght-webfont.woff') format('woff');
+    src: url('./fonts/arimo-variablefont_wght-webfont.woff2') format('woff2'),
+        url('./fonts/arimo-variablefont_wght-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -26,8 +26,8 @@
 
 @font-face {
     font-family: 'autographyregular';
-    src: url('../css/fonts/autography-webfont.woff2') format('woff2'),
-        url('../css/fonts/autography-webfont.woff') format('woff');
+    src: url('./fonts/autography-webfont.woff2') format('woff2'),
+        url('./fonts/autography-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
